@@ -1,4 +1,4 @@
-# SISTEMA DE INVETARIO CON SPRINT BOOT 
+# SISTEMA DE RECURSOS HUMANOS CON SPRINT BOOT 
 
 _Sistema desarrollado por Rodrigo Elio Vayne_
 
